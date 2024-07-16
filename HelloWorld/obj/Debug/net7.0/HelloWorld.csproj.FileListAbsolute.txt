@@ -1,0 +1,15 @@
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
